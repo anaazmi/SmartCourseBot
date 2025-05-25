@@ -1,20 +1,16 @@
 SmartCourseBot : 
-
 SmartCourseBot is an AI-powered chatbot built with Streamlit and OpenAI that helps students explore and understand course details interactively.
 
 Features :
-
 - ChatGPT-powered responses
 - Dynamic course search from a JSON file
 - Simple UI using Streamlit
 - Secure OpenAI key via `.env`
 
 Live Demo : 
-
 [Click here to try SmartCourseBot](https://smartcoursebot-kgcojexq6gjqmxr75edgw8.streamlit.app/)
 
 Tech Stack : 
-
 - Python
 - Streamlit
 - OpenAI GPT (API)
@@ -22,9 +18,7 @@ Tech Stack :
 - dotenv
 
 How to Run Locally : 
-
 Open your terminal and follow these steps:
-
 ```bash
 # 1. Clone the repository
 git clone https://github.com/anaazmi/SmartCourseBot.git
